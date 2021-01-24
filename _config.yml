@@ -1,5 +1,5 @@
 title: Jwoonge's
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+description: Jaewoong.Song's blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jwooonge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -8,7 +8,7 @@ author-name:    Jaewoong Song
 author-image:   1.jpg
 author-job:     NHN, Rookie_Lion_TF
 author-email:   jwoonge@nhn.com # Add your email for contant form.
-about-author:   graduated Chung-Ang univ. (2021), NHN 8th Rookie
+about-author:   jwoonge@nhn.com\n\ngraduated Chung-Ang univ. (2021)\nNHN 8th Rookie\n
 
 # Social settings
 social-facebook:  jewoong.song
