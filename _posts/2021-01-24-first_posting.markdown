@@ -3,8 +3,8 @@ layout: post
 title: "BASECAMP 1주차를 마치고"
 date: 2021-01-24 23:16:30 +0900
 image: 4.jpg
-tags: [Rookie, NHN]
-categories: 일상
+tags: [Rookie, NHN, 회고, BASECAMP]
+categories: 회고
 ---
 입사 3주 차, 평화로웠던 입문교육이 끝나고, 정상을 향한 발돋움이 되어줄 베이스캠프로 넘어왔다.  
   
