@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BaseCamp Sprint 2&3 회고"
-date: 2021-02-27 15:31:30 +0900
+date: 2021-02-07 15:31:30 +0900
 image: 5.jpg
 tags: [Rookie, NHN, 회고, BASECAMP]
 categories: 회고
